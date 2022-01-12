@@ -1,15 +1,15 @@
 # Site settings
 title: JayGreentree.Blog
 header-img: img/home-bg.jpg
-email: dev@mindfusionhosting.com
+email: 
 copyright_name: MindFusion Development
 description: "Latest updates on development projects"
 baseurl: ""
-url: "http://dev.mindfusionhosting.com"
+url: "http://mindfusion-hosting-solutions.github.io"
 twitter_username: JayTheITGuy1983
 github_username:  jaygreentree
-facebook_username:  MindFusionHosting
-email_username:  dev@mindfusionhosting.com
+facebook_username:  
+email_username:  
 # Build settings
 markdown: kramdown
 highlighter: rouge
